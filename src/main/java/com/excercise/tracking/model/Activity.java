@@ -8,7 +8,6 @@ import lombok.ToString;
 
 @Setter
 @Getter
-@XmlRootElement
 @ToString
 public class Activity {
 	private Integer id;
