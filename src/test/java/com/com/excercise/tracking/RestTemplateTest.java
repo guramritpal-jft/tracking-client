@@ -8,7 +8,6 @@ import com.excercise.tracking.client.ActivityTrackerSpringRestTemplateClient;
 import com.excercise.tracking.model.Activity;
 
 public class RestTemplateTest {
-
 	ActivityTrackerSpringRestTemplateClient activityTrackerSpringRestTemplateClient = new ActivityTrackerSpringRestTemplateClient();
 
 	@Test
