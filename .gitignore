@@ -1,0 +1,11 @@
+.classpath
+.project
+.settings
+.iml
+.idea
+*.iml
+target
+*~
+rebel.xml
+node_modules
+ad-att-standalone-web/node
